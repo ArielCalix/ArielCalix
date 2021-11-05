@@ -17,4 +17,7 @@ You can click the Preview link to take a look at your changes.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Principios SOLID](https://dev.to/arielcalix/principios-solid-3mh)
+- [4 Consejos para ser un mejor desarrollador](https://dev.to/arielcalix/4-consejos-para-ser-un-mejor-desarrollador-21f6)
+- [Top 4 lenguajes más amados en 2020](https://dev.to/arielcalix/top-4-lenguajes-mas-amados-en-2020-2nnh)
 <!-- BLOG-POST-LIST:END -->
