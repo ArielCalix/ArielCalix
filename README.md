@@ -1,5 +1,5 @@
+ <h1 align="center">Ariel Calix Profile</h1>
 <p align="center">
- <h2 align="center">Ariel Calix Profile</h2>
  <p align="center">Computer Science Engineer</p>
 </p>
   <p align="center">
@@ -123,7 +123,7 @@
  </p>
   </p>
 
-# Blog posts
+# Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [Principios SOLID](https://dev.to/arielcalix/principios-solid-3mh)
 - [4 Consejos para ser un mejor desarrollador](https://dev.to/arielcalix/4-consejos-para-ser-un-mejor-desarrollador-21f6)
