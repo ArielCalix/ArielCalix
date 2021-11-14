@@ -139,9 +139,9 @@
 
 # Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [.Net Core vs NodeJS &lpar;Resumen&rpar;](https://dev.to/arielcalix/net-core-vs-nodejs-resumen-275h)
 - [.Net Core vs NodeJS &lpar;NodeJS&rpar;](https://dev.to/arielcalix/net-core-vs-nodejs-3gn0)
 - [.Net Core vs NodeJS &lpar;.Net Core&rpar;](https://dev.to/arielcalix/net-core-vs-nodejs-4c0b)
 - [Principios SOLID](https://dev.to/arielcalix/principios-solid-3mh)
 - [4 Consejos para ser un mejor desarrollador](https://dev.to/arielcalix/4-consejos-para-ser-un-mejor-desarrollador-21f6)
-- [Top 4 lenguajes más amados en 2020](https://dev.to/arielcalix/top-4-lenguajes-mas-amados-en-2020-2nnh)
 <!-- BLOG-POST-LIST:END -->
