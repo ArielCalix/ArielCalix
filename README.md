@@ -34,10 +34,10 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arielcalix&layout=compact&theme=dark" />
   </a>
   </br></br>
-  <a href="https://github.com/arielcalix/github-readme-stats">
+  <a href="https://github.com/arielcalix/Code.Extensions">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=arielcalix&repo=Code.Extensions&theme=dark" />
   </a>
-  <a href="https://github.com/arielcalix/github-readme-stats">
+  <a href="https://github.com/arielcalix/CurriculumsOnline">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=arielcalix&repo=CurriculumsOnline&theme=dark" />
   </a>
   </br></br>
