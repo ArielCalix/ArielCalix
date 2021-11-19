@@ -31,11 +31,11 @@
   </a>
   </br></br>
   <a href="https://github.com/arielcalix/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arielcalix&layout=compact&theme=dark" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arielcalix&layout=compact&theme=dark&show_owner=true" />
   </a>
   </br></br>
   <a href="https://github.com/arielcalix/Code.Extensions">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=arielcalix&repo=Code.Extensions&theme=dark" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=arielcalix&repo=Code.Extensions&theme=dark&show_owner=true" />
   </a>
   <a href="https://github.com/arielcalix/CurriculumsOnline">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=arielcalix&repo=CurriculumsOnline&theme=dark" />
