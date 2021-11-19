@@ -37,6 +37,9 @@
   <a href="https://github.com/arielcalix/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=arielcalix&repo=Code.Extensions&theme=dark" />
   </a>
+  <a href="https://github.com/arielcalix/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=arielcalix&repo=CurriculumsOnline&theme=dark" />
+  </a>
   </br></br>
   <a href="https://github.com/arielcalix/github-readme-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=arielcalix&theme=dark" />
