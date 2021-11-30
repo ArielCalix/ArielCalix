@@ -37,8 +37,21 @@
   <a href="https://github.com/arielcalix/Code.Extensions">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=arielcalix&repo=Code.Extensions&theme=dark&show_owner=true" />
   </a>
+  </br>
+  <a href="https://github.com/arielcalix/CurriculumsOnline">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=arielcalix&repo=api.elecciones2021&theme=dark" />
+  </a>
+  </br>
+  <a href="https://github.com/arielcalix/api.elecciones2021">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=arielcalix&repo=elecciones2021&theme=dark" />
+  </a>
+  </br>
   <a href="https://github.com/arielcalix/CurriculumsOnline">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=arielcalix&repo=CurriculumsOnline&theme=dark" />
+  </a>
+  </br>
+  <a href="https://github.com/arielcalix/MentoresHNLayout">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=arielcalix&repo=MentoresHNLayout&theme=dark" />
   </a>
   </br></br>
   <a href="https://github.com/arielcalix/github-readme-stats">
