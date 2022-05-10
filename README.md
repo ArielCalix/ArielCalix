@@ -159,9 +159,9 @@
 
 # Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Top 4 lenguajes más amados en 2021](https://dev.to/arielcalix/top-4-lenguajes-mas-amados-en-2021-3g58)
+- [3 Habilidades para ser un desarrollador Front-End](https://dev.to/arielcalix/3-habilidades-para-ser-desarrollador-front-end-49k1)
+- [Redux](https://dev.to/arielcalix/redux-1bh9)
 - [Las mejores extensiones para Visual Studio Code](https://dev.to/arielcalix/las-mejores-extensiones-para-visual-studio-code-2bab)
 - [.Net Core vs NodeJS &lpar;Resumen&rpar;](https://dev.to/arielcalix/net-core-vs-nodejs-resumen-275h)
-- [.Net Core vs NodeJS &lpar;NodeJS&rpar;](https://dev.to/arielcalix/net-core-vs-nodejs-3gn0)
-- [.Net Core vs NodeJS &lpar;.Net Core&rpar;](https://dev.to/arielcalix/net-core-vs-nodejs-4c0b)
-- [Principios SOLID](https://dev.to/arielcalix/principios-solid-3mh)
 <!-- BLOG-POST-LIST:END -->
