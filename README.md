@@ -51,7 +51,7 @@
   </a>
   </br>
   <a href="https://github.com/ArielCalix/Agenda">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=arielcalix&repo=MentoresHNLayout&theme=dark" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=arielcalix&repo=Agenda&theme=dark" />
   </a>
   </br>
   <a href="https://github.com/arielcalix/MentoresHNApp">
