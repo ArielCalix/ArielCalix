@@ -50,7 +50,7 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=arielcalix&repo=CurriculumsOnline&theme=dark" />
   </a>
   </br>
-  <a href="https://github.com/arielcalix/MentoresHNLayout">
+  <a href="https://github.com/ArielCalix/Agenda">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=arielcalix&repo=MentoresHNLayout&theme=dark" />
   </a>
   </br>
