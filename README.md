@@ -1,4 +1,4 @@
-<h1 align="center">Ariel Calix Profile</h1>
+.<h1 align="center">Ariel Calix Profile</h1>
 <p align="center">
 <p align="center">Computer Science Engineer</p>
 </p>
@@ -38,7 +38,7 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=arielcalix&repo=Code.Extensions&theme=dark&show_owner=true" />
   </a>
   </br>
-  <a href="https://github.com/arielcalix/CurriculumsOnline">
+  <a href="https://github.com/arielcalix/elecciones2021">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=arielcalix&repo=api.elecciones2021&theme=dark" />
   </a>
   </br>
