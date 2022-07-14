@@ -43,11 +43,11 @@
   </a>
   </br>
   <a href="https://github.com/arielcalix/api.elecciones2021">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=arielcalix&repo=rickmorty&theme=dark" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=arielcalix&repo=api.elecciones2021&theme=dark" />
   </a>
   </br>
   <a href="https://github.com/arielcalix/rickmorty">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=arielcalix&repo=elecciones2021&theme=dark" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=arielcalix&repo=rickmorty&theme=dark" />
   </a>
   </br>
   <a href="https://github.com/arielcalix/CurriculumsOnline">
