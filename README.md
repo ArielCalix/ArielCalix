@@ -164,7 +164,7 @@
 # Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [Estandares de escritura C# &lpar;Parte II&rpar;](https://dev.to/arielcalix/estandares-de-escritura-c-parte-ii-g7a)
-- [Estándares de escritura C#](https://dev.to/arielcalix/estandares-de-escritura-c-3j16)
+- [Estándares de escritura C# &lpar;Parte I&rpar;](https://dev.to/arielcalix/estandares-de-escritura-c-3j16)
 - [Principios Básicos de Redux](https://dev.to/arielcalix/principios-basicos-de-redux-4ln3)
 - [Top 4 lenguajes más amados en 2021](https://dev.to/arielcalix/top-4-lenguajes-mas-amados-en-2021-3g58)
 - [3 Habilidades para ser un desarrollador Front-End](https://dev.to/arielcalix/3-habilidades-para-ser-desarrollador-front-end-49k1)
